@@ -1,0 +1,24 @@
+{
+  "tableValues": [
+    {
+      "tableName": "interview.geography_columns",
+      "uniqueColumn": "chennai",
+      "columnName": "city_name"
+    },
+    {
+      "tableName": "interview.geography_columns",
+      "uniqueColumn": "mumbai",
+      "columnName": "city_name"
+    },
+    {
+      "tableName": "interview.geography_columns",
+      "uniqueColumn": "bangalore",
+      "columnName": "city_name"
+    },
+    {
+      "tableName": "interview.geography_columns",
+      "uniqueColumn": "cochin",
+      "columnName": "city_name"
+    }
+  ]
+}

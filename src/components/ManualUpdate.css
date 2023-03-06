@@ -1,0 +1,38 @@
+.tableName {
+    margin-top: 100px;
+    text-align: center;
+  }
+  
+  .textBox1 {
+    background-color: #EEEEEE;
+    padding : 4px;
+  }
+  
+  .textBox2 {
+    background-color: #EEEEEE;
+    padding : 4px;
+  }
+  
+  .textBox3 {
+    background-color: #EEEEEE;
+    padding : 4px;
+  }
+  
+  .columnId {
+    margin-top: 12px;
+    text-align: center;
+  }
+  
+  .columnName {
+    margin-top: 12px;
+    text-align: center;
+  }
+  
+  .button {
+    margin-top: 20px;
+    padding: 5px;
+    margin-left : 705px;
+    color: #090909;
+    border-radius: 5px;
+    border-color: #626262;
+  }
